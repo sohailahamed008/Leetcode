@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sohailahamed008/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sohailahamed008/Leetcode/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/sohailahamed008/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/sohailahamed008/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohailahamed008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sohailahamed008/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/sohailahamed008/Leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailahamed008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/sohailahamed008/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Simulation
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohailahamed008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sohailahamed008/Leetcode/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
